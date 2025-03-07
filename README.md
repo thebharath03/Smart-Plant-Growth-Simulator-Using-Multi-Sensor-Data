@@ -1,0 +1,2 @@
+# Smart-Plant-Growth-Simulator-Using-Multi-Sensor-Data
+This project simulates plant growth using real-time sensor data. A capacitive soil moisture sensor tracks soil hydration, the TCS3200 analyzes leaf color for stomatal activity, and the DHT11 monitors temperature and humidity. The collected data is used to generate a growth simulation graph, helping visualize plant health and development over time.
